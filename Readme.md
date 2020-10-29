@@ -4,11 +4,11 @@ Basic Implementation of LZ78 Compression Alghorithm
 
 make
 
-## Typical usage (compression):
+## Typical usage (decompression):
 
 ./lz78 -i inputfile -o outputfile
 
-## Typical usage (decompression):
+## Typical usage (compression):
 
 ./lz78 -i inputfile -o outputfile -d
 
